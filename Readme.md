@@ -50,4 +50,4 @@ Navigate to directory you installed Cyber Goose and click Open.
 3) Enjoy a more peaceful and safer world.
 
 
-* Created by Hans Zhang and Philip Chiang.
+* Created by Hans Zhang and Philip Chang.
