@@ -1,4 +1,5 @@
-Cyber Goose
+![alt tag](https://github.com/Hans-Zhang28/Cyber-Goose/blob/master/images/icon-128x128.png) 
+Cyber Goose 
 ================================
 A Chrome extension that removes all the harassment messages on Facebook
 
